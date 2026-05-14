@@ -1,0 +1,312 @@
+{
+  "$schema": "../schemas/questions.schema.json",
+  "category": "minecraft",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "minecraft-001",
+      "question": "Qual o nome do mob hostil mais icônico do Minecraft, que explode ao se aproximar do jogador?",
+      "responses": ["creeper"],
+      "tip": "Verde, silencioso e mortal. Símbolo do jogo."
+    },
+    {
+      "id": "minecraft-002",
+      "question": "Qual o nome do chefão final do Minecraft, encontrado no End?",
+      "responses": ["ender dragon", "dragão do end", "dragao do end"],
+      "tip": "Um dragão roxo que voa sobre torres de obsidiana."
+    },
+    {
+      "id": "minecraft-003",
+      "question": "Qual o nome do minério mais raro e valioso do Minecraft vanilla?",
+      "responses": ["netherite", "netherita"],
+      "tip": "Mais forte que diamante, encontrado no Nether."
+    },
+    {
+      "id": "minecraft-004",
+      "question": "Qual o nome do mob passivo que carrega itens e cospe em você quando irritado?",
+      "responses": ["lhama", "llama"],
+      "tip": "Animal sul-americano usado como meio de transporte de carga."
+    },
+    {
+      "id": "minecraft-005",
+      "question": "Quantos corações de vida o jogador tem por padrão?",
+      "responses": ["10", "dez"],
+      "tip": "São 20 pontos de vida, mas exibidos em pares como corações."
+    },
+    {
+      "id": "minecraft-006",
+      "question": "Qual o nome da dimensão vermelha e infernal do Minecraft?",
+      "responses": ["nether"],
+      "tip": "Acessada por um portal de obsidiana aceso com pederneira."
+    },
+    {
+      "id": "minecraft-007",
+      "question": "Qual o nome da dimensão onde vive o chefão final?",
+      "responses": ["end", "the end"],
+      "tip": "Uma ilha flutuante no vazio, de onde você não pode voltar facilmente."
+    },
+    {
+      "id": "minecraft-008",
+      "question": "Qual o nome do mob que só aparece à noite e explode na luz do sol?",
+      "responses": ["zumbi", "zombie", "esqueleto", "skeleton"],
+      "tip": "Mortos-vivos clássicos que fogem do amanhecer."
+    },
+    {
+      "id": "minecraft-009",
+      "question": "Qual o item usado para criar um portal para o Nether?",
+      "responses": ["obsidiana", "obsidian"],
+      "tip": "Bloco preto formado quando lava encontra água."
+    },
+    {
+      "id": "minecraft-010",
+      "question": "Qual o nome do mob aquático que atira espinhos e vive em templos subaquáticos?",
+      "responses": ["guardião", "guardian"],
+      "tip": "Tem um olho grande e causa dano a distância com um raio."
+    },
+    {
+      "id": "minecraft-011",
+      "question": "Qual o nome da criatura alta, preta e que transporta blocos?",
+      "responses": ["enderman"],
+      "tip": "Não olhe nos olhos dele."
+    },
+    {
+      "id": "minecraft-012",
+      "question": "Qual o nome do segundo chefão do Minecraft, invocado com caveiras de Wither Skeleton?",
+      "responses": ["wither"],
+      "tip": "Tem três cabeças e destrói blocos ao redor."
+    },
+    {
+      "id": "minecraft-013",
+      "question": "Qual o nome do item deixado pelo Ender Dragon ao ser derrotado?",
+      "responses": ["ovo do dragão", "ovo do end", "dragon egg"],
+      "tip": "Um bloco decorativo preto e único no mundo."
+    },
+    {
+      "id": "minecraft-014",
+      "question": "Qual o nome do bioma mais frio do Minecraft, coberto de neve e gelo?",
+      "responses": ["tundra", "snowy tundra", "planície nevada", "ice plains"],
+      "tip": "Plano, branco e com pouca vegetação."
+    },
+    {
+      "id": "minecraft-015",
+      "question": "Qual o nome da ferramenta usada para minerar pedra e minérios?",
+      "responses": ["picareta", "pickaxe"],
+      "tip": "Sem ela, você não consegue coletar pedra nem minérios."
+    },
+    {
+      "id": "minecraft-016",
+      "question": "Qual o nome do mob que nasce de ovos, é rápido e ataca em grupo?",
+      "responses": ["galinha", "chicken"],
+      "tip": "Bota ovos e solta penas ao morrer."
+    },
+    {
+      "id": "minecraft-017",
+      "question": "Qual o nome do bloco de luz artificial mais comum no Minecraft?",
+      "responses": ["tocha", "torch"],
+      "tip": "Feita com graveto e carvão, ilumina cavernas."
+    },
+    {
+      "id": "minecraft-018",
+      "question": "Qual o nome do mob que atira flechas e é esqueleto?",
+      "responses": ["esqueleto", "skeleton"],
+      "tip": "Branco, com ossos e um arco na mão."
+    },
+    {
+      "id": "minecraft-019",
+      "question": "Qual o nome da mesa usada para criar ferramentas e itens?",
+      "responses": ["bancada de trabalho", "crafting table", "workbench"],
+      "tip": "Primeiro bloco que todo jogador crafta ao começar."
+    },
+    {
+      "id": "minecraft-020",
+      "question": "Qual o nome do mob que vende itens em troca de esmeraldas?",
+      "responses": ["aldeão", "villager"],
+      "tip": "Vive em vilas e tem um nariz enorme."
+    },
+    {
+      "id": "minecraft-021",
+      "question": "Qual o nome do minério verde usado como moeda com aldeões?",
+      "responses": ["esmeralda", "emerald"],
+      "tip": "Verde e raro, mas não serve para fazer ferramentas."
+    },
+    {
+      "id": "minecraft-022",
+      "question": "Qual o nome do bioma de floresta escura com cogumelos gigantes?",
+      "responses": ["floresta negra", "dark forest", "roofed forest"],
+      "tip": "Tão densa que mal entra luz solar. Lar das mansões."
+    },
+    {
+      "id": "minecraft-023",
+      "question": "Qual o nome da estrutura subterrânea cheia de armadilhas e tesouros?",
+      "responses": ["masmorra", "dungeon", "templo"],
+      "tip": "Tem um spawner no centro e dois baús com loot."
+    },
+    {
+      "id": "minecraft-024",
+      "question": "Qual o nome do item que permite voar no modo survival?",
+      "responses": ["elytra"],
+      "tip": "Asas encontradas em Cidades do End."
+    },
+    {
+      "id": "minecraft-025",
+      "question": "Qual o nome do mob que imita outros mobs e é mestre do disfarce?",
+      "responses": ["coelho assassino", "killer rabbit"],
+      "tip": "Parece uma caixa, vive nas Cidades do End e atira projéteis que levitam."
+    },
+    {
+      "id": "minecraft-026",
+      "question": "Qual o nome do encantamento que aumenta o dano de espadas contra mortos-vivos?",
+      "responses": ["ruína dos artrópodes", "smite"],
+      "tip": "Causa dano extra em zumbis, esqueletos e similares."
+    },
+    {
+      "id": "minecraft-027",
+      "question": "Qual o nome do bloco que armazena e cozinha itens usando carvão ou madeira?",
+      "responses": ["fornalha", "furnace", "forno"],
+      "tip": "Essencial para fundir minérios e cozinhar comida."
+    },
+    {
+      "id": "minecraft-028",
+      "question": "Qual o nome do mob rosa que solta carne ao morrer e pode ser montado?",
+      "responses": ["porco", "pig"],
+      "tip": "Com uma sela e cenoura na vara, vira sua montaria."
+    },
+    {
+      "id": "minecraft-029",
+      "question": "Qual o nome do item lançável que teletransporta o jogador?",
+      "responses": ["perola do end", "pérola do end", "ender pearl"],
+      "tip": "Largada pelos Endermen, causa um pouco de dano ao ser usada."
+    },
+    {
+      "id": "minecraft-030",
+      "question": "Qual o nome da estrutura gerada em desertos, cheia de armadilhas e tesouros?",
+      "responses": [
+        "templo do deserto",
+        "desert temple",
+        "pirâmide do deserto",
+        "piramide do deserto"
+      ],
+      "tip": "Parece uma pirâmide com um bloco azul no centro."
+    },
+    {
+      "id": "minecraft-031",
+      "question": "Qual o nome do mob que aparece em pântanos e atira poções?",
+      "responses": ["bruxa", "witch"],
+      "tip": "Tem chapéu pontudo e usa poções contra e a favor de si mesma."
+    },
+    {
+      "id": "minecraft-032",
+      "question": "Qual o nome do bloco que explode quando pisado ou atingido?",
+      "responses": ["tnt"],
+      "tip": "Vermelho com a sigla estampada, adorado por quem gosta de destruição."
+    },
+    {
+      "id": "minecraft-033",
+      "question": "Qual o nome do mob marinho amigável que nada em cardumes coloridos?",
+      "responses": ["peixe palhaço", "peixe tropical", "tropical fish"],
+      "tip": "Existem dezenas de variações de cores e padrões."
+    },
+    {
+      "id": "minecraft-034",
+      "question": "Qual o nome do bloco que reproduz músicas e sons com discos?",
+      "responses": ["jukebox"],
+      "tip": "Feito com madeira e um diamante. Coloque um disco e curta."
+    },
+    {
+      "id": "minecraft-035",
+      "question": "Qual o nome do mob bebê que nasce quando um raio cai perto de uma porquinha?",
+      "responses": ["zombified piglin", "piglin zumbificado", "zombie pigman"],
+      "tip": "Meio porco, meio zumbi, vive no Nether e é neutro até ser atacado."
+    },
+    {
+      "id": "minecraft-036",
+      "question": "Qual o nome da mesa usada para aplicar encantamentos nos itens?",
+      "responses": ["mesa de encantamentos", "enchanting table", "mesa de encantamento"],
+      "tip": "Feita com obsidiana, diamantes e um livro. Rodeada de estantes fica mais poderosa."
+    },
+    {
+      "id": "minecraft-037",
+      "question": "Qual o nome do mob que protege as vilas durante a noite?",
+      "responses": ["golem de ferro", "iron golem"],
+      "tip": "Grande, feito de ferro, e derruba rosas quando mata inimigos."
+    },
+    {
+      "id": "minecraft-038",
+      "question": "Qual o nome do item que cura e alimenta o jogador ao ser consumido?",
+      "responses": ["pote de mel", "golden apple", "maca dourada", "maçã dourada"],
+      "tip": "Dourada e brilhante, dá regeneração e absorção temporária."
+    },
+    {
+      "id": "minecraft-039",
+      "question": "Qual o nome do mob voador do Nether que solta bolas de fogo?",
+      "responses": ["ghast"],
+      "tip": "Grande, branco e chora enquanto tenta te matar com fogo."
+    },
+    {
+      "id": "minecraft-040",
+      "question": "Qual o nome da estrutura gigante de pedra encontrada no oceano?",
+      "responses": ["monumento aquático", "ocean monument", "templo aquático"],
+      "tip": "Guardada por Guardiões e pelo Guardião Ancião."
+    },
+    {
+      "id": "minecraft-041",
+      "question": "Qual o nome do mob neutro que ataca se você olhar nos olhos dele?",
+      "responses": ["enderman"],
+      "tip": "Alto, preto e teletransporta. Não cruze o olhar."
+    },
+    {
+      "id": "minecraft-042",
+      "question": "Qual o nome do bloco que funciona como cama para os padrões do Nether?",
+      "responses": ["ancora de respawn", "âncora de respawn", "respawn anchor"],
+      "tip": "Carregada com pedra de luz, permite definir seu ponto de respawn no Nether."
+    },
+    {
+      "id": "minecraft-043",
+      "question": "Qual o nome da poção que permite respirar embaixo d'água?",
+      "responses": ["poção de respiração aquática", "water breathing", "poção de fôlego"],
+      "tip": "Essencial para explorar monumentos e ruínas subaquáticas."
+    },
+    {
+      "id": "minecraft-044",
+      "question": "Qual o nome do mob chefe encontrado em masmorras da Cidade do End?",
+      "responses": ["shulker"],
+      "tip": "Parece um bloco roxo. Atira projéteis que causam levitação."
+    },
+    {
+      "id": "minecraft-045",
+      "question": "Qual o nome do sistema de trilhos elétricos usado para mover minecarts?",
+      "responses": ["trilho motorizado", "powered rail", "trilho impulsionador"],
+      "tip": "Dourado e precisa de redstone para funcionar."
+    },
+    {
+      "id": "minecraft-046",
+      "question": "Qual o nome do mob que é gerado quando um aldeão é morto por um zumbi?",
+      "responses": ["aldeão zumbi", "zombie villager"],
+      "tip": "Pode ser curado com maçã dourada e poção de fraqueza."
+    },
+    {
+      "id": "minecraft-047",
+      "question": "Qual o nome do bioma de floresta de bambu, lar dos pandas?",
+      "responses": ["floresta de bambu", "bamboo jungle", "selva de bambu"],
+      "tip": "Introduzido na atualização de 2019 junto com os pandas."
+    },
+    {
+      "id": "minecraft-048",
+      "question": "Qual o nome do item mágico que combina encantamentos e renomeia itens?",
+      "responses": ["bigorna", "anvil"],
+      "tip": "Cai e causa dano se você estiver embaixo dela."
+    },
+    {
+      "id": "minecraft-049",
+      "question": "Qual o nome do mob que ataca vilas junto com os saqueadores durante incursões?",
+      "responses": ["saqueador", "pillager", "ravager"],
+      "tip": "Carregam bestas e disparam flechas. Lideram as incursões."
+    },
+    {
+      "id": "minecraft-050",
+      "question": "Qual o nome da atualização que adicionou as profundezas sombrias e o Warden?",
+      "responses": ["the wild update", "wild update", "atualização selvagem"],
+      "tip": "Lançada em 2022, também adicionou os mangues e os sapos."
+    }
+  ]
+}

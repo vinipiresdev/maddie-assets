@@ -27,10 +27,14 @@ npm install
 
 Os arquivos ficam em `questions/`:
 
-| Arquivo | Categoria |
-|---|---|
-| `questions/discord.json` | Perguntas sobre o Discord |
-| `questions/maddie.json` | Perguntas sobre a Maddie |
+| Categoria | Arquivo | Descrição |
+|---|---|---|
+| `among-us` | `questions/among-us.json` | Perguntas sobre o Among US |
+| `desenho` | `questions/desenho.json` | Perguntas sobre Desenhos Animados |
+| `discord` | `questions/discord.json` | Perguntas sobre funcionalidades e curiosidades do Discord |
+| `maddie` | `questions/maddie.json` | Perguntas sobre a própria Maddie |
+| `minecraft` | `questions/minecraft.json` | Perguntas sobre o Minecraft |
+| `roblox` | `questions/roblox.json` | Perguntas sobre o Roblox |
 
 ### 5. Siga as regras ao adicionar perguntas
 

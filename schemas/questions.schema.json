@@ -13,7 +13,7 @@
     "category": {
       "type": "string",
       "description": "Identificador da categoria das perguntas.",
-      "enum": ["discord", "maddie"]
+      "enum": ["discord", "maddie", "minecraft", "roblox", "among-us", "desenho"]
     },
     "version": {
       "type": "string",
@@ -38,7 +38,7 @@
         "id": {
           "type": "string",
           "description": "Identificador único da pergunta. Formato: {categoria}-{numero com 3 dígitos}.",
-          "pattern": "^[a-z]+-\\d{3}$",
+          "pattern": "^[a-z]+(-[a-z]+)*-\\d{3}$",
           "examples": ["discord-001", "maddie-005"]
         },
         "question": {
@@ -51,7 +51,7 @@
           "type": "array",
           "description": "Lista de respostas aceitas (todas em minúsculas, sem acento obrigatório).",
           "minItems": 1,
-          "maxItems": 10,
+          "maxItems": 30,
           "items": {
             "type": "string",
             "minLength": 1,

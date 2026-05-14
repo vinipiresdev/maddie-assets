@@ -1,0 +1,307 @@
+{
+  "$schema": "../schemas/questions.schema.json",
+  "category": "desenho",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "desenho-001",
+      "question": "Qual o nome do pai da família no desenho 'Os Simpsons'?",
+      "responses": ["homer", "homer simpson"],
+      "tip": "Trabalha numa usina nuclear e adora donuts e cerveja."
+    },
+    {
+      "id": "desenho-002",
+      "question": "Em qual cidade fictícia os Simpsons moram?",
+      "responses": ["springfield"],
+      "tip": "Uma cidade americana genérica. O estado nunca foi revelado oficialmente."
+    },
+    {
+      "id": "desenho-003",
+      "question": "Qual o nome da esponja amarela que mora em Fenda do Biquíni?",
+      "responses": ["bob esponja", "spongebob", "bob"],
+      "tip": "Trabalha no Siri Cascudo e adora caçar água-viva."
+    },
+    {
+      "id": "desenho-004",
+      "question": "Qual o nome do melhor amigo de Bob Esponja?",
+      "responses": ["patrick", "patrick estrela"],
+      "tip": "Uma estrela do mar rosa que mora debaixo de uma pedra."
+    },
+    {
+      "id": "desenho-005",
+      "question": "Qual o nome do vizinho ranzinza de Bob Esponja que toca clarinete?",
+      "responses": ["lula molusco", "squidward"],
+      "tip": "Tem nariz comprido e se acha um artista incompreendido."
+    },
+    {
+      "id": "desenho-006",
+      "question": "Qual o nome do dono do Siri Cascudo em Bob Esponja?",
+      "responses": ["siriguejo", "mr. krabs", "mr krabs"],
+      "tip": "Um caranguejo obcecado com dinheiro. Patrão do Bob Esponja."
+    },
+    {
+      "id": "desenho-007",
+      "question": "Qual o nome do esquilo texano amigo do Bob Esponja?",
+      "responses": ["sandy", "sandy bochechas"],
+      "tip": "Mora numa cúpula com ar e pratica artes marciais."
+    },
+    {
+      "id": "desenho-008",
+      "question": "Qual o nome do vilão de Bob Esponja que quer roubar a fórmula do hambúrguer?",
+      "responses": ["plankton"],
+      "tip": "Minúsculo, verde e dono do Balde de Lixo. Casado com um computador."
+    },
+    {
+      "id": "desenho-009",
+      "question": "Qual o nome do desenho sobre um menino gênio que tem um laboratório secreto?",
+      "responses": ["o laboratório de dexter", "laboratório de dexter", "dexter"],
+      "tip": "Menino ruivo com óculos. A irmã Dee Dee sempre invade o laboratório dele."
+    },
+    {
+      "id": "desenho-010",
+      "question": "Qual o nome da irmã de Dexter que sempre bagunça o laboratório?",
+      "responses": ["dee dee"],
+      "tip": "Alta, loira e dançarina. Adora entrar onde não é chamada."
+    },
+    {
+      "id": "desenho-011",
+      "question": "Qual o nome do desenho com dois irmãos que vivem aventuras num triângulo misterioso?",
+      "responses": ["phineas e ferb"],
+      "tip": "Um tem cabeça triangular, o outro é britânico e quieto. Têm um ornitorrinco agente secreto."
+    },
+    {
+      "id": "desenho-012",
+      "question": "Qual o nome do ornitorrinco agente secreto de Phineas e Ferb?",
+      "responses": ["perry", "perry o ornitorrinco", "agente p"],
+      "tip": "Usa chapéu fedora e combate o Dr. Heinz Doofenshmirtz."
+    },
+    {
+      "id": "desenho-013",
+      "question": "Qual o nome do desenho sobre uma menina que resolve mistérios com um cachorro chamado Scooby?",
+      "responses": ["scooby doo"],
+      "tip": "Um grupo de adolescentes desvenda mistérios com um grande cão medroso."
+    },
+    {
+      "id": "desenho-014",
+      "question": "Qual o nome do dono do Scooby-Doo?",
+      "responses": ["salsicha", "shaggy"],
+      "tip": "Magricelo, sempre com fome e com muito medo de fantasmas."
+    },
+    {
+      "id": "desenho-015",
+      "question": "Qual o nome do desenho sobre quatro meninas com superpoderes criadas por um professor?",
+      "responses": ["as meninas superpoderosas", "powerpuff girls"],
+      "tip": "Florzinha, Lindinha e Docinho. Criadas acidentalmente com Substância X."
+    },
+    {
+      "id": "desenho-016",
+      "question": "Qual o nome do vilão principal das Meninas Superpoderosas?",
+      "responses": ["macaco louco", "mojo jojo"],
+      "tip": "Um macaco com cérebro exposto que fala de forma repetitiva e redundante."
+    },
+    {
+      "id": "desenho-017",
+      "question": "Qual o nome do desenho sobre um garoto que descobre ser herdeiro de um reino submarino?",
+      "responses": ["o feitiço de áquila", "the fairly oddparents", "padrinhos mágicos"],
+      "tip": "Timmy Turner tem dois padrinhos mágicos: Cosmo e Wanda."
+    },
+    {
+      "id": "desenho-018",
+      "question": "Qual o nome dos padrinhos mágicos de Timmy Turner?",
+      "responses": ["cosmo e wanda"],
+      "tip": "Um é verde e desastrado, a outra é rosa e sensata."
+    },
+    {
+      "id": "desenho-019",
+      "question": "Qual o nome do desenho da Nickelodeon sobre um menino que vive em cidade grande?",
+      "responses": ["ei arnold", "hey arnold"],
+      "tip": "Menino com cabeça de futebol americano que mora com os avós numa pensão."
+    },
+    {
+      "id": "desenho-020",
+      "question": "Qual o nome do desenho sobre uma família de monstros modernos?",
+      "responses": ["a família addams", "addams family"],
+      "tip": "Família sombria e excêntrica. Gomez, Mortícia, Wandinha e Dedão."
+    },
+    {
+      "id": "desenho-021",
+      "question": "Qual o nome do desenho sobre um urso que adora mel e vive numa floresta com amigos?",
+      "responses": ["ursinho pooh", "winnie the pooh", "pooh"],
+      "tip": "Urso amarelo gordinho, criação de A.A. Milne, amigo do leitão Piglet."
+    },
+    {
+      "id": "desenho-022",
+      "question": "Qual o nome do desenho da Cartoon Network sobre um menino covarde e seu cachorro?",
+      "responses": ["coragem o cão covarde", "courage the cowardly dog", "coragem"],
+      "tip": "Cachorro rosa que vive no meio do nada e enfrenta monstros para salvar a dona Caramelo."
+    },
+    {
+      "id": "desenho-023",
+      "question": "Qual o nome da dona do cachorro Coragem?",
+      "responses": ["caramelo", "muriel"],
+      "tip": "Velhinha gentil que Coragem protege de todos os perigos."
+    },
+    {
+      "id": "desenho-024",
+      "question": "Qual o nome do desenho sobre dois ratos que tentam dominar o mundo?",
+      "responses": ["pinky e o cérebro", "pinky and the brain"],
+      "tip": "Um é genial, o outro é idiota. Todo episódio tentam um novo plano de dominação."
+    },
+    {
+      "id": "desenho-025",
+      "question": "Qual o nome do desenho sobre um ogro verde que mora num pântano?",
+      "responses": ["shrek"],
+      "tip": "Ogro verde escocês que se apaixona pela princesa Fiona."
+    },
+    {
+      "id": "desenho-026",
+      "question": "Qual o nome do burro amigo do Shrek?",
+      "responses": ["burro", "donkey"],
+      "tip": "Falante, animado e obcecado com waffles. Dublado por Eddie Murphy."
+    },
+    {
+      "id": "desenho-027",
+      "question": "Qual o nome do desenho sobre uma menina latina que explora o mundo com um mochila falante?",
+      "responses": ["dora a aventureira", "dora the explorer", "dora"],
+      "tip": "Sempre pede ajuda ao espectador para encontrar o caminho. Tem um macaco chamado Botas."
+    },
+    {
+      "id": "desenho-028",
+      "question": "Qual o nome do desenho da Nickelodeon sobre um caracol que participa de corridas?",
+      "responses": ["turbo"],
+      "tip": "Caracol que ganha superpoderes após um acidente e sonha em correr na Indy 500."
+    },
+    {
+      "id": "desenho-029",
+      "question": "Qual o nome do desenho sobre um menino que vive aventuras com sua imaginação num mundo de tigre de pelúcia?",
+      "responses": ["calvin e haroldo", "calvin and hobbes"],
+      "tip": "Menino travesso e seu tigre de pelúcia que ganha vida na imaginação dele."
+    },
+    {
+      "id": "desenho-030",
+      "question": "Qual o nome do desenho da Disney sobre um pato que é sobrinho do Pato Donald?",
+      "responses": ["ducktales", "patoaventuras"],
+      "tip": "Huguinho, Zezinho e Luisinho vivem aventuras com o Tio Patinhas."
+    },
+    {
+      "id": "desenho-031",
+      "question": "Qual o nome do tio rico dos sobrinhos do Pato Donald?",
+      "responses": ["tio patinhas", "scrooge mcduck"],
+      "tip": "Pato mais rico do mundo que nada em moedas no seu cofre."
+    },
+    {
+      "id": "desenho-032",
+      "question": "Qual o nome do desenho sobre um menino que transforma monstros em cartas colecionáveis?",
+      "responses": ["monsternos", "mon colle knights", "monstros e cia"],
+      "tip": "Filme da Pixar sobre monstros que assustam crianças para gerar energia."
+    },
+    {
+      "id": "desenho-033",
+      "question": "Qual o nome do personagem principal de Monstros S.A.?",
+      "responses": ["sulley", "james p sullivan"],
+      "tip": "Monstro azul peludo que é o maior assustador da empresa."
+    },
+    {
+      "id": "desenho-034",
+      "question": "Qual o nome do melhor amigo do Sulley em Monstros S.A.?",
+      "responses": ["mike wazowski", "mike"],
+      "tip": "Um olho só, verde e muito falante. Namorado da Celia."
+    },
+    {
+      "id": "desenho-035",
+      "question": "Qual o nome do desenho sobre um guerreiro que protege Eternia com uma espada mágica?",
+      "responses": ["he-man", "masters of the universe"],
+      "tip": "Pela honra de Grayskull! Alter ego do príncipe Adam."
+    },
+    {
+      "id": "desenho-036",
+      "question": "Qual o nome do desenho sobre tartarugas ninja que vivem no esgoto de Nova York?",
+      "responses": ["tartarugas ninja", "teenage mutant ninja turtles", "tmnt"],
+      "tip": "Leonardo, Donatello, Rafael e Michelangelo. Treinados pelo ratinho Splinter."
+    },
+    {
+      "id": "desenho-037",
+      "question": "Qual o nome do professor que criou as Meninas Superpoderosas acidentalmente?",
+      "responses": ["professor utônio", "professor utonium"],
+      "tip": "Misturou açúcar, tempero e tudo de bom... e acrescentou a Substância X sem querer."
+    },
+    {
+      "id": "desenho-038",
+      "question": "Qual o nome do desenho sobre um menino índio que faz amizade com um lobo?",
+      "responses": ["peter pan", "bambi", "balto"],
+      "tip": "Clássico de animação sobre amizade entre humano e animal selvagem na floresta."
+    },
+    {
+      "id": "desenho-039",
+      "question": "Qual o nome do desenho da Pixar sobre brinquedos que ganham vida quando humanos saem?",
+      "responses": ["toy story"],
+      "tip": "Woody e Buzz Lightyear são os protagonistas. 'Para o infinito e além!'"
+    },
+    {
+      "id": "desenho-040",
+      "question": "Qual o nome do cowboy protagonista de Toy Story?",
+      "responses": ["woody"],
+      "tip": "Xerife de chapéu e bota. Rival e depois amigo do astronauta Buzz."
+    },
+    {
+      "id": "desenho-041",
+      "question": "Qual o nome do astronauta de Toy Story?",
+      "responses": ["buzz lightyear", "buzz"],
+      "tip": "Guarda espacial intergalático. Seu bordão é 'Para o infinito e além!'"
+    },
+    {
+      "id": "desenho-042",
+      "question": "Qual o nome do desenho sobre uma garotinha que tem cabelos mágicos compridos?",
+      "responses": ["enrolados", "rapunzel", "tangled"],
+      "tip": "Ficou presa numa torre por anos. O cabelo tem poderes curativos."
+    },
+    {
+      "id": "desenho-043",
+      "question": "Qual o nome do desenho da Pixar sobre um robô solitário na Terra do futuro?",
+      "responses": ["wall-e", "walle"],
+      "tip": "Robozinho que coleta lixo e se apaixona por outro robô chamado EVA."
+    },
+    {
+      "id": "desenho-044",
+      "question": "Qual o nome do desenho sobre um velho que faz sua casa voar com balões?",
+      "responses": ["up", "lá em cima"],
+      "tip": "Filme da Pixar. Os primeiros 10 minutos são considerados os mais emotivos do cinema."
+    },
+    {
+      "id": "desenho-045",
+      "question": "Qual o nome do garoto escoteiro que acompanha o senhor Fredricksen em Up?",
+      "responses": ["russell"],
+      "tip": "Menino gorducho e animado que precisa de um distintivo de aventura ao ar livre."
+    },
+    {
+      "id": "desenho-046",
+      "question": "Qual o nome do desenho da Pixar sobre uma família de super-heróis?",
+      "responses": ["os incríveis", "the incredibles"],
+      "tip": "Bob Parra, Helen, Violeta, Dash e Jack-Jack. 'Onde está meu super traje?'"
+    },
+    {
+      "id": "desenho-047",
+      "question": "Qual o nome do estilista que cria trajes para super-heróis em Os Incríveis?",
+      "responses": ["edna mode", "edna moda"],
+      "tip": "Baixinha, óculos enormes e uma regra: sem capas!"
+    },
+    {
+      "id": "desenho-048",
+      "question": "Qual o nome do desenho da Pixar sobre um rato que sonha em ser chef de cozinha em Paris?",
+      "responses": ["ratatouille"],
+      "tip": "Remy controla o cabelo de um humano para cozinhar no restaurante Gusteau."
+    },
+    {
+      "id": "desenho-049",
+      "question": "Qual o nome do desenho sobre emoções que vivem na mente de uma menina chamada Riley?",
+      "responses": ["divertida mente", "inside out"],
+      "tip": "Alegria, Tristeza, Raiva, Medo e Nojinho. Filme da Pixar de 2015."
+    },
+    {
+      "id": "desenho-050",
+      "question": "Qual o nome da emoção principal de Divertida Mente, representada em amarelo?",
+      "responses": ["alegria", "joy"],
+      "tip": "A mais otimista das emoções. Tenta manter Riley sempre feliz."
+    }
+  ]
+}

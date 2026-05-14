@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/questions.schema.json",
   "category": "discord",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "questions": [
     {
       "id": "discord-001",
@@ -152,6 +152,156 @@
       "question": "Qual o nome da funcionalidade que permite fixar mensagens importantes no canal?",
       "responses": ["mensagens fixadas", "fixar", "pins", "pin"],
       "tip": "Usado para destacar mensagens importantes para todos verem."
+    },
+    {
+      "id": "discord-026",
+      "question": "Qual o nome do status que mostra que o usuário está fora do computador?",
+      "responses": ["ausente", "away", "idle"],
+      "tip": "Representado por um círculo amarelo com uma lua crescente."
+    },
+    {
+      "id": "discord-027",
+      "question": "Como se chama o recurso de marcar alguém numa mensagem com o símbolo @?",
+      "responses": ["menção", "mencionar", "mention", "marcar"],
+      "tip": "Usado para chamar a atenção de alguém diretamente."
+    },
+    {
+      "id": "discord-028",
+      "question": "Qual o nome do canal onde só é possível enviar uma mensagem por período limitado?",
+      "responses": ["modo lento", "slowmode", "slow mode"],
+      "tip": "Ativa uma contagem regressiva entre as mensagens."
+    },
+    {
+      "id": "discord-029",
+      "question": "Como se chama o arquivo de regras que bots usam para interagir com o Discord?",
+      "responses": ["api", "api do discord", "discord api"],
+      "tip": "Sigla de Application Programming Interface."
+    },
+    {
+      "id": "discord-030",
+      "question": "Qual o nome do recurso que permite criar enquetes nos servidores?",
+      "responses": ["enquete", "poll", "votação"],
+      "tip": "Usado para perguntar a opinião de vários membros ao mesmo tempo."
+    },
+    {
+      "id": "discord-031",
+      "question": "Qual o nome dos canais de voz onde os membros podem entrar e conversar?",
+      "responses": ["canal de voz", "voice channel", "canal de audio", "canal de áudio"],
+      "tip": "Diferente dos canais de texto, aqui você fala em vez de digitar."
+    },
+    {
+      "id": "discord-032",
+      "question": "Como se chama o recurso de silenciar o próprio microfone?",
+      "responses": ["mutar", "mute", "silenciar microfone"],
+      "tip": "Quando você não quer que ninguém te ouça."
+    },
+    {
+      "id": "discord-033",
+      "question": "Como se chama o recurso de silenciar o áudio que você ouve?",
+      "responses": ["ensurdecer", "deafen", "deaf"],
+      "tip": "Quando você não quer ouvir ninguém no canal de voz."
+    },
+    {
+      "id": "discord-034",
+      "question": "Qual o nome dos emojis personalizados que servidores podem criar?",
+      "responses": ["emojis personalizados", "emotes", "emojis do servidor", "custom emojis"],
+      "tip": "Exclusivos do servidor, ficam disponíveis para os membros usarem."
+    },
+    {
+      "id": "discord-035",
+      "question": "Como se chama a versão beta pública do Discord para testes?",
+      "responses": ["ptb", "public test build"],
+      "tip": "Sigla de Public Test Build, diferente da versão Canary."
+    },
+    {
+      "id": "discord-036",
+      "question": "Qual o nome do recurso que exibe atividade de um jogo no perfil do usuário?",
+      "responses": ["status de jogo", "rich presence", "atividade"],
+      "tip": "Mostra automaticamente o que você está jogando para seus amigos."
+    },
+    {
+      "id": "discord-037",
+      "question": "Como se chama o sistema de moderação automática nativa do Discord?",
+      "responses": ["automod", "auto moderação", "auto moderation"],
+      "tip": "Filtra mensagens ruins automaticamente sem precisar de bot externo."
+    },
+    {
+      "id": "discord-038",
+      "question": "Qual o nome do recurso que permite criar canais de anúncios que outros servidores seguem?",
+      "responses": ["canal de anúncios", "announcements", "news channel"],
+      "tip": "Servidores parceiros podem seguir e receber as mensagens automaticamente."
+    },
+    {
+      "id": "discord-039",
+      "question": "Como se chama a funcionalidade de palco para transmissões de áudio ao vivo?",
+      "responses": ["palco", "stage", "stage channel"],
+      "tip": "Parecido com um podcast, só os anfitriões falam enquanto a audiência ouve."
+    },
+    {
+      "id": "discord-040",
+      "question": "Qual o nome do log que registra ações administrativas num servidor?",
+      "responses": ["audit log", "log de auditoria", "registro de auditoria"],
+      "tip": "Ferramenta essencial para moderadores saberem quem fez o quê no servidor."
+    },
+    {
+      "id": "discord-041",
+      "question": "Como se chama o recurso de responder diretamente a uma mensagem específica?",
+      "responses": ["responder", "reply", "resposta"],
+      "tip": "Cria uma referência visual à mensagem original dentro do chat."
+    },
+    {
+      "id": "discord-042",
+      "question": "Qual o nome do recurso de vídeo em chamadas e canais de voz?",
+      "responses": ["câmera", "camera", "video", "vídeo"],
+      "tip": "Permite que os outros te vejam além de te ouvirem."
+    },
+    {
+      "id": "discord-043",
+      "question": "Como se chama a função que impede um membro de enviar mensagens sem expulsá-lo?",
+      "responses": ["timeout", "tempo limite", "silenciado"],
+      "tip": "Punição temporária: o usuário continua no servidor, mas não pode interagir."
+    },
+    {
+      "id": "discord-044",
+      "question": "Qual o nome da proteção que exige verificação de email ou celular antes de interagir?",
+      "responses": ["verificação", "verification", "nível de verificação"],
+      "tip": "Configura quanta segurança o servidor exige antes de um novo membro falar."
+    },
+    {
+      "id": "discord-045",
+      "question": "Como se chama o recurso de adesivos enviados em mensagens, similares a emojis grandes?",
+      "responses": ["stickers", "sticker", "adesivos", "adesivo"],
+      "tip": "Maiores que emojis, são figurinhas enviadas como mensagem."
+    },
+    {
+      "id": "discord-046",
+      "question": "Qual o nome do sistema de conquistas e recompensas dentro de servidores?",
+      "responses": ["quests", "missões", "servidor quests"],
+      "tip": "Incentiva membros a completarem tarefas para ganhar recompensas."
+    },
+    {
+      "id": "discord-047",
+      "question": "Como se chama a categoria que agrupa vários canais no painel do servidor?",
+      "responses": ["categoria", "category"],
+      "tip": "É o nome que aparece em maiúsculas acima de um grupo de canais."
+    },
+    {
+      "id": "discord-048",
+      "question": "Qual o nome do recurso que permite salvar mensagens para ler depois?",
+      "responses": ["salvar mensagem", "bookmark", "saved messages", "mensagens salvas"],
+      "tip": "Como um favorito, mas para mensagens específicas do chat."
+    },
+    {
+      "id": "discord-049",
+      "question": "Como se chama o identificador único numérico de cada usuário no Discord?",
+      "responses": ["id", "snowflake", "user id"],
+      "tip": "Um número longo e único, diferente do nome de usuário."
+    },
+    {
+      "id": "discord-050",
+      "question": "Qual o nome do modo que deixa a interface do Discord com fundo branco?",
+      "responses": ["tema claro", "light mode", "modo claro"],
+      "tip": "O oposto do tema escuro, e motivo de muitas piadas na comunidade."
     }
   ]
 }

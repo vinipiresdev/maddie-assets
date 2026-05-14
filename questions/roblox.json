@@ -1,0 +1,307 @@
+{
+  "$schema": "../schemas/questions.schema.json",
+  "category": "roblox",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "roblox-001",
+      "question": "Qual o nome da moeda premium usada para comprar itens no Roblox?",
+      "responses": ["robux"],
+      "tip": "Combinação de 'Roblox' com 'bucks' (dinheiro em inglês)."
+    },
+    {
+      "id": "roblox-002",
+      "question": "Qual o nome da assinatura paga do Roblox que dá Robux mensalmente?",
+      "responses": ["roblox premium", "premium"],
+      "tip": "Substituiu o antigo Builders Club. Começa com 'P'."
+    },
+    {
+      "id": "roblox-003",
+      "question": "Qual o nome do personagem padrão do Roblox, sem nenhuma customização?",
+      "responses": ["noob", "robloxiano"],
+      "tip": "Azul e amarelo, símbolo dos iniciantes."
+    },
+    {
+      "id": "roblox-004",
+      "question": "Qual o nome da loja oficial de itens cosméticos do Roblox?",
+      "responses": ["avatar shop", "catalog", "catálogo", "loja de avatares"],
+      "tip": "Onde você compra roupas, acessórios e itens para seu personagem."
+    },
+    {
+      "id": "roblox-005",
+      "question": "Em que ano o Roblox foi lançado oficialmente ao público?",
+      "responses": ["2006"],
+      "tip": "Foi no mesmo ano em que o Twitter foi criado."
+    },
+    {
+      "id": "roblox-006",
+      "question": "Qual o nome da linguagem de programação usada para criar jogos no Roblox?",
+      "responses": ["lua", "luau"],
+      "tip": "Nome de um instrumento musical havaiano. Começa com 'L'."
+    },
+    {
+      "id": "roblox-007",
+      "question": "Qual o nome da ferramenta usada para criar e editar jogos no Roblox?",
+      "responses": ["roblox studio", "studio"],
+      "tip": "Software gratuito disponível para download. Termina com 'Studio'."
+    },
+    {
+      "id": "roblox-008",
+      "question": "Qual o nome do jogo de sobrevivência no Roblox onde você luta para ser o último?",
+      "responses": ["survivor", "roblox survivor", "the survival game"],
+      "tip": "Inspirado em realities de sobrevivência. Muito popular na plataforma."
+    },
+    {
+      "id": "roblox-009",
+      "question": "Qual o jogo do Roblox onde você adota e cuida de animais de estimação?",
+      "responses": ["adopt me", "adopt me!"],
+      "tip": "Um dos jogos mais jogados de toda a plataforma. Começa com 'Adopt'."
+    },
+    {
+      "id": "roblox-010",
+      "question": "Qual o nome do item mais raro e cobiçado do Roblox, normalmente de edição limitada?",
+      "responses": ["limited", "limiteds", "item limitado"],
+      "tip": "Itens com quantidade restrita que valorizam com o tempo."
+    },
+    {
+      "id": "roblox-011",
+      "question": "Como se chama o recurso que permite trocar itens entre jogadores no Roblox?",
+      "responses": ["trade", "troca", "trading"],
+      "tip": "Exclusivo para usuários Premium. Em inglês significa 'troca'."
+    },
+    {
+      "id": "roblox-012",
+      "question": "Qual o nome do jogo de terror no Roblox inspirado em Five Nights at Freddy's?",
+      "responses": ["piggy"],
+      "tip": "Um porquinho assustador persegue os jogadores pelo mapa."
+    },
+    {
+      "id": "roblox-013",
+      "question": "Qual o nome do jogo do Roblox onde você escapa de uma prisão?",
+      "responses": ["jailbreak"],
+      "tip": "Você pode ser policial ou ladrão. Muito famoso desde 2017."
+    },
+    {
+      "id": "roblox-014",
+      "question": "Como se chama o recurso de acessórios que ficam nas costas do personagem?",
+      "responses": ["back accessory", "acessório de costas", "backpack"],
+      "tip": "Capas, asas e mochilas entram nessa categoria."
+    },
+    {
+      "id": "roblox-015",
+      "question": "Qual o nome do evento anual de Halloween do Roblox?",
+      "responses": ["roblox halloween", "halloween event", "halloween"],
+      "tip": "Acontece todo ano em outubro com itens e jogos temáticos."
+    },
+    {
+      "id": "roblox-016",
+      "question": "Qual o nome do sistema de reporte de jogadores mal-intencionados no Roblox?",
+      "responses": ["report", "reportar"],
+      "tip": "Botão disponível no menu de qualquer jogador dentro do jogo."
+    },
+    {
+      "id": "roblox-017",
+      "question": "Qual o nome do jogo do Roblox inspirado em obby, com obstáculos e parkour?",
+      "responses": ["obby", "obstacle course", "tower of hell"],
+      "tip": "Abreviação de 'obstacle course'. Cheio de saltos e plataformas."
+    },
+    {
+      "id": "roblox-018",
+      "question": "Como se chama o sistema de grupos que reúne jogadores com interesses em comum?",
+      "responses": ["groups", "grupos", "group"],
+      "tip": "Clãs, fãclubes e comunidades se organizam assim dentro do Roblox."
+    },
+    {
+      "id": "roblox-019",
+      "question": "Qual o nome do jogo de RPG medieval muito famoso no Roblox?",
+      "responses": ["dungeon quest", "vesteria", "fantasy kingdom"],
+      "tip": "Jogos de aventura com espadas, magias e masmorras."
+    },
+    {
+      "id": "roblox-020",
+      "question": "Qual o nome do evento natalino anual do Roblox?",
+      "responses": ["roblox christmas", "christmas event", "winter event", "bloxgiving"],
+      "tip": "Acontece em dezembro com itens temáticos de neve e presentes."
+    },
+    {
+      "id": "roblox-021",
+      "question": "Como se chama o sistema de chapéus clássicos do Roblox, famosos nos primeiros anos?",
+      "responses": ["hats", "chapéus", "classic hats"],
+      "tip": "Ícone dos primeiros anos da plataforma. Hoje são chamados de acessórios."
+    },
+    {
+      "id": "roblox-022",
+      "question": "Qual o nome do jogo de simulação de vida social muito popular no Roblox?",
+      "responses": ["brookhaven", "brookhaven rp"],
+      "tip": "Você mora numa cidade, tem casa e pode fazer roleplay com outros jogadores."
+    },
+    {
+      "id": "roblox-023",
+      "question": "Como se chama o sistema de emblemas que você conquista dentro dos jogos?",
+      "responses": ["badges", "badge", "emblemas", "emblema"],
+      "tip": "Recompensas por completar desafios específicos dentro de um jogo."
+    },
+    {
+      "id": "roblox-024",
+      "question": "Qual o nome do modo de chat filtrado que o Roblox usa para proteger jogadores jovens?",
+      "responses": ["safe chat", "chat seguro", "filtro de chat"],
+      "tip": "Substitui palavras proibidas por hashtags '###' automaticamente."
+    },
+    {
+      "id": "roblox-025",
+      "question": "Qual o nome do jogo de torre de defesa mais famoso do Roblox?",
+      "responses": ["tower defense simulator", "tds"],
+      "tip": "Você posiciona torres para defender contra ondas de inimigos. Sigla TDS."
+    },
+    {
+      "id": "roblox-026",
+      "question": "Como se chama o recurso que permite aos criadores ganhar Robux com seus jogos?",
+      "responses": ["developer exchange", "devex"],
+      "tip": "Permite converter Robux em dinheiro real. Sigla é DevEx."
+    },
+    {
+      "id": "roblox-027",
+      "question": "Qual o nome do jogo de anime mais famoso do Roblox, inspirado em Naruto?",
+      "responses": ["shindo life", "shinobi life"],
+      "tip": "Cheio de jutsus e ninjas. Antes se chamava Shinobi Life."
+    },
+    {
+      "id": "roblox-028",
+      "question": "Qual o nome da funcionalidade que permite jogar Roblox no navegador sem baixar nada?",
+      "responses": ["roblox web", "jogar no navegador", "browser"],
+      "tip": "Acessível direto pelo site, sem precisar instalar o cliente."
+    },
+    {
+      "id": "roblox-029",
+      "question": "Como se chama a função de servidores privados pagos dentro dos jogos do Roblox?",
+      "responses": ["vip server", "servidor vip", "private server"],
+      "tip": "Você paga Robux para ter um servidor só para você e seus amigos."
+    },
+    {
+      "id": "roblox-030",
+      "question": "Qual o nome do jogo de Roblox onde você treina e luta como um ninja?",
+      "responses": ["ninja legends", "ninja"],
+      "tip": "Você acumula chi e evolui seu personagem lutando contra outros jogadores."
+    },
+    {
+      "id": "roblox-031",
+      "question": "Qual o nome do cofundador e CEO do Roblox?",
+      "responses": ["david baszucki", "baszucki", "david"],
+      "tip": "Fundou o Roblox em 2004 junto com Erik Cassel. Primeiro nome é David."
+    },
+    {
+      "id": "roblox-032",
+      "question": "Como se chama o recurso de passes que dão vantagens dentro de um jogo específico?",
+      "responses": ["game pass", "gamepass", "passe de jogo"],
+      "tip": "Comprado com Robux e válido apenas no jogo que o vende."
+    },
+    {
+      "id": "roblox-033",
+      "question": "Qual o nome do jogo de Roblox inspirado em Squid Game?",
+      "responses": ["squid game", "the squid game"],
+      "tip": "Adaptação do famoso k-drama coreano. Surgiu logo após o lançamento da série."
+    },
+    {
+      "id": "roblox-034",
+      "question": "Como se chama o tipo de jogo do Roblox onde o objetivo é chegar ao fim de uma fase cheia de obstáculos?",
+      "responses": ["obby", "obstacle course"],
+      "tip": "Abreviação de 'obstacle course'. Plataformas, armadilhas e muito salto."
+    },
+    {
+      "id": "roblox-035",
+      "question": "Qual o nome do sistema que notifica quando um amigo entra online ou num jogo?",
+      "responses": ["notificações", "notifications", "friend activity"],
+      "tip": "Aparece no canto da tela quando um amigo começa a jogar algo."
+    },
+    {
+      "id": "roblox-036",
+      "question": "Qual o nome do avatar alternativo mais alto e esguio disponível no Roblox?",
+      "responses": ["r15", "rthro"],
+      "tip": "Mais articulado que o clássico R6, com 15 partes no corpo."
+    },
+    {
+      "id": "roblox-037",
+      "question": "Como se chama o avatar clássico do Roblox com apenas 6 partes no corpo?",
+      "responses": ["r6"],
+      "tip": "O estilo original e quadrado do personagem Roblox. Tem 6 partes."
+    },
+    {
+      "id": "roblox-038",
+      "question": "Qual o nome do jogo de Roblox onde você simula ser um funcionário de fast food?",
+      "responses": ["work at a pizza place", "pizza place"],
+      "tip": "Um dos jogos mais antigos e clássicos da plataforma. Envolve fazer pizzas."
+    },
+    {
+      "id": "roblox-039",
+      "question": "Como se chama o recurso de missões diárias que recompensa jogadores com itens?",
+      "responses": ["daily rewards", "recompensas diárias", "login bonus"],
+      "tip": "Basta entrar na plataforma todo dia para acumular recompensas."
+    },
+    {
+      "id": "roblox-040",
+      "question": "Qual o nome do jogo de Roblox de construção e sobrevivência parecido com Minecraft?",
+      "responses": ["survival game", "the survival game", "booga booga"],
+      "tip": "Você coleta recursos, constrói base e sobrevive contra outros jogadores."
+    },
+    {
+      "id": "roblox-041",
+      "question": "Qual o nome da moeda gratuita antiga do Roblox que foi descontinuada?",
+      "responses": ["tix", "tickets"],
+      "tip": "Era ganha gratuitamente todo dia. Foi removida em 2016."
+    },
+    {
+      "id": "roblox-042",
+      "question": "Como se chama o sistema de ranking de popularidade dos jogos no Roblox?",
+      "responses": ["sort", "popular games", "jogos populares"],
+      "tip": "Ordena os jogos por número de jogadores ativos no momento."
+    },
+    {
+      "id": "roblox-043",
+      "question": "Qual o nome do jogo de Roblox onde você é um cientista numa instalação secreta?",
+      "responses": ["area 51", "area-51", "meme surveillance"],
+      "tip": "Inspirado na famosa base militar americana cercada de teorias conspiratórias."
+    },
+    {
+      "id": "roblox-044",
+      "question": "Como se chama o recurso que permite personalizar a animação de caminhada do personagem?",
+      "responses": ["animation pack", "pacote de animação", "walk animation"],
+      "tip": "Comprado na loja de avatares. Muda como seu personagem se move."
+    },
+    {
+      "id": "roblox-045",
+      "question": "Qual o nome do jogo de Roblox de batalha naval onde você controla barcos?",
+      "responses": ["build a boat for treasure", "build a boat"],
+      "tip": "Você constrói um barco e tenta chegar ao tesouro no fim do percurso."
+    },
+    {
+      "id": "roblox-046",
+      "question": "Qual o nome do sistema de experiência que mede o quanto você joga no Roblox?",
+      "responses": ["xp", "experience", "experiência"],
+      "tip": "Acumulado jogando, sobe seu nível na plataforma."
+    },
+    {
+      "id": "roblox-047",
+      "question": "Como se chama o recurso de transmissão ao vivo integrado ao Roblox?",
+      "responses": ["roblox live", "live"],
+      "tip": "Permite que criadores transmitam suas sessões de jogo diretamente."
+    },
+    {
+      "id": "roblox-048",
+      "question": "Qual o nome do jogo de Roblox de simulação de fazenda muito popular?",
+      "responses": ["farming simulator", "farm world", "farmer's life"],
+      "tip": "Você planta, colhe e vende produtos agrícolas para ganhar dinheiro no jogo."
+    },
+    {
+      "id": "roblox-049",
+      "question": "Como se chama o sistema de reporte de jogos com conteúdo inapropriado no Roblox?",
+      "responses": ["report abuse", "reportar abuso", "flag"],
+      "tip": "Garante que jogos que violam as regras sejam revisados pela moderação."
+    },
+    {
+      "id": "roblox-050",
+      "question": "Qual o nome do aplicativo oficial do Roblox para celular?",
+      "responses": ["roblox", "roblox app", "aplicativo roblox"],
+      "tip": "Disponível gratuitamente para iOS e Android. Mesmo nome da plataforma."
+    }
+  ]
+}

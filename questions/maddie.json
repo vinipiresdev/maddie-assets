@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/questions.schema.json",
   "category": "maddie",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "questions": [
     {
       "id": "maddie-001",
@@ -26,6 +26,262 @@
       "question": "Qual o prefixo padrão de comandos da Maddie?",
       "responses": ["m."],
       "tip": "Quando você adiciona a Maddie em um novo servidor e usa @Maddie, ela diz o prefixo padrão."
+    },
+    {
+      "id": "maddie-005",
+      "question": "Qual o comando usado para ver a compatibilidade entre dois usuários?",
+      "responses": ["ship", "m.ship"],
+      "tip": "Muito usado por casais e amigos. Começa com a letra 'S'."
+    },
+    {
+      "id": "maddie-006",
+      "question": "Qual o comando usado para ver quantas pelúcias você ou outro usuário tem?",
+      "responses": [
+        "atm",
+        "bal",
+        "saldo",
+        "carteira",
+        "wallet",
+        "bank",
+        "coins",
+        "pelucias",
+        "pelúcias"
+      ],
+      "tip": "Mostra sua carteirinha de pelúcias. A sigla vem de 'caixa eletrônico' em inglês."
+    },
+    {
+      "id": "maddie-007",
+      "question": "Qual o comando usado para resgatar pelúcias diariamente?",
+      "responses": ["daily", "diario", "diário"],
+      "tip": "Pode ser feito uma vez por dia. Em inglês significa 'diário'."
+    },
+    {
+      "id": "maddie-008",
+      "question": "Qual o comando usado para ver seu nível e progresso de XP?",
+      "responses": ["progress", "level", "nivel", "nível", "lvl", "xp"],
+      "tip": "Mostra o quanto você já evoluiu. Em inglês significa 'progresso'."
+    },
+    {
+      "id": "maddie-009",
+      "question": "Qual o comando usado para ver o ranking dos maiores colecionadores de pelúcias?",
+      "responses": ["rank", "ranking", "rankings"],
+      "tip": "Mostra quem tem mais pelúcias no servidor. Começa com a letra 'R'."
+    },
+    {
+      "id": "maddie-010",
+      "question": "Qual o comando para ajudar a Maddie a crescer votando no Top.gg?",
+      "responses": ["dbl", "vote", "votar", "topgg", "discordbotlist"],
+      "tip": "Você vota num site de listagem de bots. A sigla histórica é 'DBL'."
+    },
+    {
+      "id": "maddie-011",
+      "question": "Qual o comando para ver os cooldowns dos comandos de economia?",
+      "responses": ["cooldowns", "cooldown", "cd"],
+      "tip": "Mostra quanto tempo falta para usar cada comando novamente."
+    },
+    {
+      "id": "maddie-012",
+      "question": "Qual o nome do jogo de apostas da Maddie onde você precisa adivinhar o copo correto?",
+      "responses": ["cups", "copinhos", "copo", "copinho"],
+      "tip": "Um clássico jogo de rua com copinhos e uma bolinha escondida."
+    },
+    {
+      "id": "maddie-013",
+      "question": "Qual o comando para iniciar uma partida do jogo de apostas de copinhos?",
+      "responses": ["cups start", "bet", "iniciar"],
+      "tip": "Começa a rodada do jogo. Uma das aliases é o termo em inglês para 'apostar'."
+    },
+    {
+      "id": "maddie-014",
+      "question": "Qual o comando para ver as estatísticas do jogo de copinhos?",
+      "responses": ["cups stats", "stat", "estatísticas", "estatisticas"],
+      "tip": "Mostra seu histórico de vitórias e derrotas no jogo de apostas."
+    },
+    {
+      "id": "maddie-015",
+      "question": "Qual o comando de roleplay para dar um abraço em alguém?",
+      "responses": ["hug", "abraço", "abraco", "abracar"],
+      "tip": "Gesto carinhoso de afeto. Em inglês é 'hug'."
+    },
+    {
+      "id": "maddie-016",
+      "question": "Qual o comando de roleplay para dar um beijo em alguém?",
+      "responses": ["kiss", "beijo", "beijar"],
+      "tip": "Gesto romântico. Em inglês é 'kiss'."
+    },
+    {
+      "id": "maddie-017",
+      "question": "Qual o comando de roleplay para dar um carinho em alguém?",
+      "responses": ["patpat", "carinho"],
+      "tip": "Aquele gestinho fofo de bater levemente na cabeça de alguém."
+    },
+    {
+      "id": "maddie-018",
+      "question": "Qual o comando de roleplay para dar um tapa em alguém?",
+      "responses": ["slap", "socar", "bater"],
+      "tip": "Bem diferente do carinho! Em inglês é 'slap'."
+    },
+    {
+      "id": "maddie-019",
+      "question": "Qual o comando de roleplay para dar um 'toca aqui' em alguém?",
+      "responses": ["highfive", "toca-aqui", "tocaraqui", "tocaaqui"],
+      "tip": "Aquele gesto de levantar a mão para cumprimentar alguém. Em inglês é 'high five'."
+    },
+    {
+      "id": "maddie-020",
+      "question": "Qual o comando para gerar uma arte ASCII do avatar de um usuário?",
+      "responses": ["ascii", "asciiart", "img2ascii"],
+      "tip": "Arte feita com caracteres de texto, estilo hackers dos anos 90."
+    },
+    {
+      "id": "maddie-021",
+      "question": "Qual o comando para gerar uma arte em pixel do avatar de um usuário?",
+      "responses": ["pixel-art", "pixel"],
+      "tip": "Transforma o avatar num estilo retrô de videogame antigo."
+    },
+    {
+      "id": "maddie-022",
+      "question": "Qual o comando para traduzir uma frase de um idioma para outro?",
+      "responses": ["translate", "traduzir"],
+      "tip": "Útil para entender mensagens em outros idiomas. Em inglês é 'translate'."
+    },
+    {
+      "id": "maddie-023",
+      "question": "Qual o comando para a Maddie escolher entre várias opções separadas por vírgula?",
+      "responses": ["choose", "escolher"],
+      "tip": "Quando você não consegue decidir, deixa a Maddie escolher por você!"
+    },
+    {
+      "id": "maddie-024",
+      "question": "Qual o comando para gerar uma conquista personalizada do Minecraft com a Maddie?",
+      "responses": ["minecraft achievement", "achievement"],
+      "tip": "Aquela caixinha dourada que aparece no canto da tela quando você conquista algo no Minecraft."
+    },
+    {
+      "id": "maddie-025",
+      "question": "Qual o comando para ver a skin de um jogador do Minecraft?",
+      "responses": ["minecraft skin", "skin"],
+      "tip": "Mostra o visual personalizado de um jogador no Minecraft."
+    },
+    {
+      "id": "maddie-026",
+      "question": "Qual o comando para gerar um papel de parede personalizado do Minecraft?",
+      "responses": ["minecraft wallpaper", "wallpaper"],
+      "tip": "Cria uma imagem temática do Minecraft para usar como fundo de tela."
+    },
+    {
+      "id": "maddie-027",
+      "question": "Qual o comando para tocar música em um canal de voz?",
+      "responses": ["music play", "play", "p"],
+      "tip": "O comando mais básico do player de música. Em inglês é 'play'."
+    },
+    {
+      "id": "maddie-028",
+      "question": "Qual o comando para parar o player de música e limpar a fila?",
+      "responses": ["music stop", "stop", "parar", "st"],
+      "tip": "Encerra tudo e esvazia a fila de músicas. Em inglês é 'stop'."
+    },
+    {
+      "id": "maddie-029",
+      "question": "Qual o comando para pular uma música na fila?",
+      "responses": ["music skip", "skip", "sk"],
+      "tip": "Passa para a próxima faixa. Em inglês é 'skip'."
+    },
+    {
+      "id": "maddie-030",
+      "question": "Qual o comando para ver a fila de músicas no servidor?",
+      "responses": ["music queue", "queue", "fila", "q"],
+      "tip": "Mostra todas as músicas que estão na lista de espera."
+    },
+    {
+      "id": "maddie-031",
+      "question": "Qual o comando para embaralhar a fila de músicas?",
+      "responses": ["music shuffle", "shuffle", "embaralhar", "sh"],
+      "tip": "Mistura a ordem das músicas aleatoriamente. Em inglês é 'shuffle'."
+    },
+    {
+      "id": "maddie-032",
+      "question": "Qual o comando para ajustar o volume do player de música?",
+      "responses": ["music volume", "volume", "vol", "v"],
+      "tip": "Controla o som do player. Começa com a letra 'V'."
+    },
+    {
+      "id": "maddie-033",
+      "question": "Qual o comando para ver a música que está tocando no momento?",
+      "responses": ["music now-playing", "now-playing", "np", "tocando"],
+      "tip": "Mostra a faixa atual com detalhes. A sigla é 'NP'."
+    },
+    {
+      "id": "maddie-034",
+      "question": "Qual o comando para ativar ou desativar o autoplay de músicas?",
+      "responses": ["music autoplay", "autoplay", "auto"],
+      "tip": "Com ele ativo, a Maddie sugere músicas automaticamente quando a fila acaba."
+    },
+    {
+      "id": "maddie-035",
+      "question": "Qual o comando para definir o modo de repetição da fila de músicas?",
+      "responses": ["music loop", "loop"],
+      "tip": "Faz a música ou a fila repetir. Em inglês é 'loop'."
+    },
+    {
+      "id": "maddie-036",
+      "question": "Qual o comando para configurar o sistema de boas-vindas do servidor?",
+      "responses": ["configure welcome", "welcome", "acolhimento", "boas-vindas", "bem-vindo"],
+      "tip": "Configura a mensagem que aparece quando um novo membro entra no servidor."
+    },
+    {
+      "id": "maddie-037",
+      "question": "Qual o comando para configurar o sistema anti-convite do servidor?",
+      "responses": ["configure anti-invite", "anti-invite", "antiinvite"],
+      "tip": "Impede que membros postem links de convite de outros servidores."
+    },
+    {
+      "id": "maddie-038",
+      "question": "Qual o comando para configurar o sistema de quizzes no servidor?",
+      "responses": ["configure quizzes", "configure quiz", "quiz", "quizzes"],
+      "tip": "Configura as perguntas e respostas do jogo de quiz do servidor."
+    },
+    {
+      "id": "maddie-039",
+      "question": "Qual o comando para configurar o sistema de entrega de cargos automáticos?",
+      "responses": ["configure auto-role", "auto-role", "autorole", "auto-cargo"],
+      "tip": "Entrega um cargo automaticamente para quem entra no servidor."
+    },
+    {
+      "id": "maddie-040",
+      "question": "Qual o comando para configurar a entrega de cargos por uso da tag da comunidade?",
+      "responses": ["configure guild-tag", "guild-tag", "server-tag", "tag", "tags"],
+      "tip": "Recompensa membros que usam a tag do servidor no perfil deles."
+    },
+    {
+      "id": "maddie-041",
+      "question": "Qual o comando para ver a latência da Maddie em tempo real?",
+      "responses": ["maddie ping", "ping", "pong"],
+      "tip": "Mede o tempo de resposta do bot. A resposta costuma ser 'Pong!'."
+    },
+    {
+      "id": "maddie-042",
+      "question": "Qual o comando para ver informações importantes sobre a Maddie?",
+      "responses": ["maddie info", "info", "botinfo", "maddieinfo", "maddinfo"],
+      "tip": "Exibe dados como versão, servidores e criador do bot."
+    },
+    {
+      "id": "maddie-043",
+      "question": "Qual o comando para obter ajuda e ver todos os comandos disponíveis da Maddie?",
+      "responses": ["maddie help", "help", "ajuda", "comandos", "cmds"],
+      "tip": "O primeiro comando que qualquer usuário deve conhecer. Começa com 'H'."
+    },
+    {
+      "id": "maddie-044",
+      "question": "Em quantas categorias os comandos da Maddie são divididos?",
+      "responses": ["7", "sete"],
+      "tip": "São várias: diversão, economia, música, configuração e mais."
+    },
+    {
+      "id": "maddie-045",
+      "question": "Qual o site oficial da Maddie?",
+      "responses": ["maddbot.xyz", "www.maddbot.xyz", "https://maddbot.xyz"],
+      "tip": "O domínio usa o nome do bot seguido de '.xyz'."
     }
   ]
 }

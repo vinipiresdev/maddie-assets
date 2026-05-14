@@ -1,0 +1,307 @@
+{
+  "$schema": "../schemas/questions.schema.json",
+  "category": "among-us",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "among-us-001",
+      "question": "Qual o nome dos personagens jogáveis do Among Us?",
+      "responses": ["crewmates", "tripulantes"],
+      "tip": "São os trabalhadores inocentes do navio. Em inglês é 'crewmates'."
+    },
+    {
+      "id": "among-us-002",
+      "question": "Qual o nome do papel do jogador que tenta eliminar os tripulantes sem ser descoberto?",
+      "responses": ["impostor", "impostores", "imposter"],
+      "tip": "O vilão do jogo. Finge ser tripulante enquanto sabota tudo."
+    },
+    {
+      "id": "among-us-003",
+      "question": "Qual o nome do mapa inicial e mais clássico do Among Us?",
+      "responses": ["the skeld", "skeld"],
+      "tip": "Uma nave espacial. O mapa mais icônico e onde tudo começou."
+    },
+    {
+      "id": "among-us-004",
+      "question": "Qual o nome do mapa de Among Us ambientado num quartel general subterrâneo?",
+      "responses": ["mira hq", "mira"],
+      "tip": "Menor e mais compacto que o Skeld. Cheio de corredores e ventilações."
+    },
+    {
+      "id": "among-us-005",
+      "question": "Qual o nome do mapa de Among Us ambientado num asteroide?",
+      "responses": ["polus"],
+      "tip": "Um planeta gelado com área externa. Segundo mapa mais popular."
+    },
+    {
+      "id": "among-us-006",
+      "question": "Como se chama a ação do impostor de matar um tripulante?",
+      "responses": ["kill", "matar", "eliminar"],
+      "tip": "O impostor faz isso quando ninguém está olhando."
+    },
+    {
+      "id": "among-us-007",
+      "question": "Como se chama a ação que o impostor usa para causar problemas no navio?",
+      "responses": ["sabotagem", "sabotage", "sabotar"],
+      "tip": "Apaga as luzes, fecha portas e causa caos no navio."
+    },
+    {
+      "id": "among-us-008",
+      "question": "Qual o nome da reunião convocada ao encontrar um corpo?",
+      "responses": ["reunião de emergência", "emergency meeting", "meeting"],
+      "tip": "Acionada pelo botão vermelho ou ao reportar um corpo."
+    },
+    {
+      "id": "among-us-009",
+      "question": "Como se chama o sistema de deslocamento secreto dos impostores pelo navio?",
+      "responses": ["ventilação", "vents", "vent"],
+      "tip": "Dutos que só os impostores podem usar para se mover rapidamente."
+    },
+    {
+      "id": "among-us-010",
+      "question": "O que acontece quando os tripulantes votam errado e expulsam um inocente?",
+      "responses": ["nada acontece", "o tripulante é expulso", "continuam jogando"],
+      "tip": "O inocente morre e o jogo continua. O impostor ainda está entre eles."
+    },
+    {
+      "id": "among-us-011",
+      "question": "Qual o nome do papel especial que pode ver os fantasmas e ajudar os vivos?",
+      "responses": ["médium", "medium"],
+      "tip": "Um papel especial introduzido em atualizações. Conecta vivos e mortos."
+    },
+    {
+      "id": "among-us-012",
+      "question": "Em que ano o Among Us foi lançado?",
+      "responses": ["2018"],
+      "tip": "Lançado em 2018, mas só ficou famoso em 2020."
+    },
+    {
+      "id": "among-us-013",
+      "question": "Qual o nome da empresa que desenvolveu o Among Us?",
+      "responses": ["innersloth"],
+      "tip": "Uma pequena equipe indie americana. Começa com 'I'."
+    },
+    {
+      "id": "among-us-014",
+      "question": "Qual o número máximo de jogadores numa partida de Among Us?",
+      "responses": ["15", "quinze"],
+      "tip": "Com a atualização de 2021, o limite subiu de 10 para este número."
+    },
+    {
+      "id": "among-us-015",
+      "question": "Qual o número máximo de impostores numa partida de Among Us?",
+      "responses": ["3", "três"],
+      "tip": "Pode ser 1, 2 ou no máximo este número por partida."
+    },
+    {
+      "id": "among-us-016",
+      "question": "Como se chama o conjunto de tarefas que os tripulantes precisam completar para vencer?",
+      "responses": ["tarefas", "tasks"],
+      "tip": "Consertar reatores, descartar lixo, passar cartão... tudo isso são elas."
+    },
+    {
+      "id": "among-us-017",
+      "question": "O que acontece com os jogadores mortos no Among Us?",
+      "responses": ["viram fantasmas", "continuam jogando como fantasmas"],
+      "tip": "Eles continuam no jogo como fantasmas e podem ajudar sua equipe."
+    },
+    {
+      "id": "among-us-018",
+      "question": "Qual o nome do mapa de Among Us com tema de cidade futurista?",
+      "responses": ["the airship", "airship"],
+      "tip": "O maior mapa do jogo. Um dirigível voador com dois andares."
+    },
+    {
+      "id": "among-us-019",
+      "question": "Como se chama o cosmético que fica na cabeça dos personagens?",
+      "responses": ["chapéu", "hat", "chapeu"],
+      "tip": "De cones de festa a coroas reais, personaliza o visual do tripulante."
+    },
+    {
+      "id": "among-us-020",
+      "question": "Como se chama o cosmético de animal de estimação que acompanha o personagem?",
+      "responses": ["pet"],
+      "tip": "Um bichinho fofo que segue seu personagem por todo o mapa."
+    },
+    {
+      "id": "among-us-021",
+      "question": "Como se chama o cosmético de acessório decorativo nas costas do personagem?",
+      "responses": ["visor", "skin"],
+      "tip": "Óculos, antenas e outros itens que ficam no rosto ou corpo do personagem."
+    },
+    {
+      "id": "among-us-022",
+      "question": "Qual o nome da tarefa visual que prova que um jogador é tripulante quando completada?",
+      "responses": ["tarefa visual", "visual task"],
+      "tip": "Produz uma animação visível a todos, como ejetar lixo no espaço."
+    },
+    {
+      "id": "among-us-023",
+      "question": "Como se chama a estratégia do impostor de ficar perto de tripulantes para criar alibi?",
+      "responses": ["faking tasks", "fingir tarefa", "fake task"],
+      "tip": "O impostor fica parado perto de uma estação fingindo trabalhar."
+    },
+    {
+      "id": "among-us-024",
+      "question": "Qual o nome do papel especial que pode proteger tripulantes de serem mortos?",
+      "responses": ["anjo da guarda", "guardian angel"],
+      "tip": "Um fantasma que pode proteger os vivos temporariamente."
+    },
+    {
+      "id": "among-us-025",
+      "question": "Como se chama o papel especial do impostor que pode transformar outros em impostores?",
+      "responses": ["morphling", "shapeshifter"],
+      "tip": "Pode copiar a aparência de outros jogadores para criar confusão."
+    },
+    {
+      "id": "among-us-026",
+      "question": "Qual o nome do papel que consegue ver a cor de aura dos impostores?",
+      "responses": ["xerife", "sheriff"],
+      "tip": "Tem a habilidade de matar, mas se errar elimina um inocente."
+    },
+    {
+      "id": "among-us-027",
+      "question": "Como se chama o sistema de votação para expulsar um suspeito da partida?",
+      "responses": ["votação", "vote", "voto"],
+      "tip": "Acontece após cada reunião de emergência. A maioria decide quem sai."
+    },
+    {
+      "id": "among-us-028",
+      "question": "Qual o resultado quando a votação termina empatada no Among Us?",
+      "responses": ["ninguém é expulso", "skip", "pular"],
+      "tip": "Nenhum jogador é eliminado e a partida continua normalmente."
+    },
+    {
+      "id": "among-us-029",
+      "question": "Como se chama o modo de jogo onde todos os jogadores são impostores?",
+      "responses": ["hide and seek", "esconde-esconde"],
+      "tip": "Um modo informal criado pela comunidade. Um caça, os outros fogem."
+    },
+    {
+      "id": "among-us-030",
+      "question": "Qual a cor mais associada ao Among Us, presente em quase todo material de divulgação?",
+      "responses": ["vermelho", "red"],
+      "tip": "Sempre suspeito, sempre lembrado. A cor mais icônica do jogo."
+    },
+    {
+      "id": "among-us-031",
+      "question": "Qual o nome do mapa de Among Us com tema de floresta e natureza?",
+      "responses": ["the fungal", "fungal"],
+      "tip": "Adicionado em atualizações recentes. Tem temática de cogumelos e natureza."
+    },
+    {
+      "id": "among-us-032",
+      "question": "Como se chama a tarefa de consertar o reator que exige dois jogadores ao mesmo tempo?",
+      "responses": ["reator", "fix reactor", "consertar reator"],
+      "tip": "Exige dois jogadores simultâneos em lados opostos do navio."
+    },
+    {
+      "id": "among-us-033",
+      "question": "Qual o nome do papel que pode ressuscitar jogadores mortos?",
+      "responses": ["cientista", "scientist", "medic"],
+      "tip": "Tem acesso ao monitor de saúde de outros jogadores remotamente."
+    },
+    {
+      "id": "among-us-034",
+      "question": "Como se chama a opção de não votar em ninguém durante a reunião?",
+      "responses": ["skip", "pular", "pular voto"],
+      "tip": "Escolha quando você não tem certeza de quem é o impostor."
+    },
+    {
+      "id": "among-us-035",
+      "question": "Qual o nome do papel que pode flashar e cegar os jogadores ao redor?",
+      "responses": ["dazzler"],
+      "tip": "Um papel de impostor que usa luz intensa para desorientar tripulantes."
+    },
+    {
+      "id": "among-us-036",
+      "question": "Como se chama a sabotagem que apaga todas as luzes do mapa?",
+      "responses": ["apagar luzes", "lights", "lights out"],
+      "tip": "Reduz drasticamente o campo de visão dos tripulantes."
+    },
+    {
+      "id": "among-us-037",
+      "question": "Qual o nome da sabotagem mais urgente, que mata todos se não for consertada a tempo?",
+      "responses": ["reator", "reactor meltdown", "o2"],
+      "tip": "Contador regressivo. Se não for corrigida, os impostores vencem automaticamente."
+    },
+    {
+      "id": "among-us-038",
+      "question": "Como se chama o nome da skin clássica de astronauta do Among Us?",
+      "responses": ["hazmat", "astronauta", "spacesuit"],
+      "tip": "O visual padrão do jogo, aquele fato espacial icônico."
+    },
+    {
+      "id": "among-us-039",
+      "question": "Qual o nome do modo de jogo competitivo e ranqueado do Among Us?",
+      "responses": ["ranked", "ranqueado", "competitive"],
+      "tip": "Adicionado para jogadores que buscam partidas mais sérias e equilibradas."
+    },
+    {
+      "id": "among-us-040",
+      "question": "Como se chama a estratégia de seguir outro jogador pelo mapa para observá-lo?",
+      "responses": ["seguir", "follow", "shadowing"],
+      "tip": "Tripulantes fazem isso para monitorar suspeitos. Impostores odeiam."
+    },
+    {
+      "id": "among-us-041",
+      "question": "Qual o nome do papel que pode construir paredes e bloquear passagens?",
+      "responses": ["trapper", "armadilheiro"],
+      "tip": "Papel especial que usa armadilhas para capturar impostores."
+    },
+    {
+      "id": "among-us-042",
+      "question": "Qual o nome do mapa de Among Us com temática de laboratório de gelo?",
+      "responses": ["polus"],
+      "tip": "Um ambiente externo e gelado cheio de rochas e tubulações."
+    },
+    {
+      "id": "among-us-043",
+      "question": "Como se chama o cosmético que muda o visual do corpo inteiro do personagem?",
+      "responses": ["skin"],
+      "tip": "Diferente do chapéu, cobre todo o personagem com um visual diferente."
+    },
+    {
+      "id": "among-us-044",
+      "question": "Qual o nome da plataforma onde o Among Us foi originalmente lançado?",
+      "responses": ["mobile", "celular", "ios", "android"],
+      "tip": "Antes do PC e do Nintendo Switch, estreou no smartphone."
+    },
+    {
+      "id": "among-us-045",
+      "question": "Como se chama a estratégia onde o impostor culpa outro jogador falsamente?",
+      "responses": ["blame", "culpar", "framing"],
+      "tip": "O impostor aponta o dedo para um inocente durante a reunião."
+    },
+    {
+      "id": "among-us-046",
+      "question": "Qual o nome do sistema de comunicação por texto durante as reuniões?",
+      "responses": ["chat"],
+      "tip": "Onde os jogadores debatem e acusam uns aos outros nas reuniões."
+    },
+    {
+      "id": "among-us-047",
+      "question": "Como se chama o modo de partida onde as funções são distribuídas aleatoriamente?",
+      "responses": ["hide and seek", "random roles", "roles aleatórios"],
+      "tip": "Ninguém sabe com antecedência qual papel vai receber."
+    },
+    {
+      "id": "among-us-048",
+      "question": "Qual a condição de vitória dos tripulantes por tarefas?",
+      "responses": ["completar todas as tarefas", "completar tarefas"],
+      "tip": "Se todos os tripulantes completarem suas tarefas, os impostores perdem."
+    },
+    {
+      "id": "among-us-049",
+      "question": "Qual a condição de vitória dos impostores?",
+      "responses": ["igualar o número de tripulantes", "matar todos os tripulantes"],
+      "tip": "Quando o número de impostores é igual ou maior ao de tripulantes."
+    },
+    {
+      "id": "among-us-050",
+      "question": "Qual o nome do meme mais famoso gerado pelo Among Us?",
+      "responses": ["sus", "sussy", "suspeito"],
+      "tip": "Três letras que viraram sinônimo de suspeito na internet inteira."
+    }
+  ]
+}
