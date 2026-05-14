@@ -48,7 +48,7 @@ Todo Pull Request passa por validação automática via GitHub Actions. Se o JSO
 ## Validação local
 
 ```bash
-npm install
+npm install               # Instala todas as bibliotecas necessárias.
 npm run validate          # Valida todos os JSONs contra o schema
 npm run check:duplicates  # Verifica IDs duplicados entre arquivos
 npm run lint              # Verifica formatação
