@@ -1,6 +1,6 @@
-# maddie-assets
+# Assets da Maddie
 
-Repositório público de assets da **Maddie** — o bot fofo do Discord. 🧸
+Repositório público de assets da **Maddie** — o bot mais fofo e amador de pelúcias do Discord.
 
 Aqui ficam as perguntas usadas no sistema de quiz, organizadas por categoria em JSON. Qualquer pessoa pode contribuir adicionando novas perguntas ou corrigindo as existentes via Pull Request.
 

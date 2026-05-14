@@ -37,7 +37,7 @@ Os arquivos ficam em `questions/`:
 - O `id` deve seguir o padrão `{categoria}-{número com 3 dígitos}` — ex: `discord-026`
 - O número deve ser sequencial (verifique qual é o último `id` existente)
 - Todas as `respostas` devem estar em **minúsculas**
-- Inclua variações de resposta quando fizer sentido (ex: `"dm"` e `"direct message"`)
+- Inclua variações de resposta quando fizer sentido (ex: `"dm"` e `"direct message"`) e se caso a sua palavra tenha acentos, inclua versões com acento e sem acento.
 - A `dica` não deve entregar a resposta diretamente
 
 #### Exemplo de pergunta bem formatada
@@ -78,7 +78,7 @@ Depois abra o PR pelo GitHub e preencha o template.
 ## Regras gerais
 
 - Não duplique perguntas que já existem
-- Escreva em português brasileiro
+- Escreva em português brasileiro (pt-BR)
 - Perguntas devem ser claras e objetivas
 - Evite perguntas muito obscuras ou subjetivas
 - Dicas não podem revelar a resposta diretamente
