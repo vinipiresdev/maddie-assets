@@ -33,6 +33,9 @@ jobs:
 
       - name: Verificar IDs duplicados
         run: npm run check:duplicates
-
+      
+      - name: Formatar JSON
+      - run: npm run lint:fix
+      
       - name: Verificar formatação
         run: npm run lint
