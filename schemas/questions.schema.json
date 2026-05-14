@@ -32,7 +32,7 @@
   "definitions": {
     "Question": {
       "type": "object",
-      "required": ["id", "question", "respostas", "dica"],
+      "required": ["id", "question", "responses", "tip"],
       "additionalProperties": false,
       "properties": {
         "id": {
@@ -47,7 +47,7 @@
           "minLength": 10,
           "maxLength": 300
         },
-        "respostas": {
+        "responses": {
           "type": "array",
           "description": "Lista de respostas aceitas (todas em minúsculas, sem acento obrigatório).",
           "minItems": 1,
@@ -58,7 +58,7 @@
             "maxLength": 100
           }
         },
-        "dica": {
+        "tip": {
           "type": "string",
           "description": "Dica enviada após alguns segundos sem resposta.",
           "minLength": 5,

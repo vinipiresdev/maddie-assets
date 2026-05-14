@@ -6,32 +6,26 @@
     {
       "id": "maddie-001",
       "question": "Qual o nome da moeda da economia da Maddie?",
-      "respostas": ["pelúcias", "pelúcia", "pelucias", "pelucia"],
-      "dica": "É muito fofinho e geralmente é um ursinho de pelúcia."
+      "responses": ["pelúcias", "pelúcia", "pelucias", "pelucia"],
+      "tip": "É muito fofinho e geralmente é um ursinho de pelúcia."
     },
     {
       "id": "maddie-002",
       "question": "O que a Maddie mais gosta de fazer?",
-      "respostas": ["dormir", "dormi", "mimi"],
-      "dica": "As pessoas fazem isso quando estão muito cansadas."
+      "responses": ["dormir", "dormi", "mimi"],
+      "tip": "As pessoas fazem isso quando estão muito cansadas."
     },
     {
       "id": "maddie-003",
       "question": "Qual o nome do criador da Maddie?",
-      "respostas": ["felipe", "felpss", "felps", "felp"],
-      "dica": "Um nome comum que começa com a letra 'F'."
+      "responses": ["felipe", "felpss", "felps", "felp"],
+      "tip": "Um nome comum que começa com a letra 'F'."
     },
     {
       "id": "maddie-004",
-      "question": "Qual é o animal que representa a Maddie?",
-      "respostas": ["gato", "gatinho", "cat"],
-      "dica": "Um bichinho que ronrona e dorme o dia todo."
-    },
-    {
-      "id": "maddie-005",
       "question": "Qual o prefixo padrão de comandos da Maddie?",
-      "respostas": ["!", "exclamação"],
-      "dica": "É um símbolo de pontuação muito usado para expressar surpresa."
+      "responses": ["m."],
+      "tip": "Quando você adiciona a Maddie em um novo servidor e usa @Maddie, ela diz o prefixo padrão."
     }
   ]
 }
