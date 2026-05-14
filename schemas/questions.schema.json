@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/maddbot-xyz/maddie-assets/schemas/questions.schema.json",
+  "title": "Maddie Quiz Questions",
+  "description": "Schema para validação dos arquivos de perguntas do quiz da Maddie.",
+  "type": "object",
+  "required": ["category", "version", "questions"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "description": "Identificador da categoria das perguntas.",
+      "enum": ["discord", "maddie"]
+    },
+    "version": {
+      "type": "string",
+      "description": "Versão do arquivo no formato semântico.",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "questions": {
+      "type": "array",
+      "description": "Lista de perguntas do quiz.",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/definitions/Question"
+      }
+    }
+  },
+  "definitions": {
+    "Question": {
+      "type": "object",
+      "required": ["id", "question", "respostas", "dica"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Identificador único da pergunta. Formato: {categoria}-{numero com 3 dígitos}.",
+          "pattern": "^[a-z]+-\\d{3}$",
+          "examples": ["discord-001", "maddie-005"]
+        },
+        "question": {
+          "type": "string",
+          "description": "O texto da pergunta exibido no chat.",
+          "minLength": 10,
+          "maxLength": 300
+        },
+        "respostas": {
+          "type": "array",
+          "description": "Lista de respostas aceitas (todas em minúsculas, sem acento obrigatório).",
+          "minItems": 1,
+          "maxItems": 10,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 100
+          }
+        },
+        "dica": {
+          "type": "string",
+          "description": "Dica enviada após alguns segundos sem resposta.",
+          "minLength": 5,
+          "maxLength": 200
+        }
+      }
+    }
+  }
+}

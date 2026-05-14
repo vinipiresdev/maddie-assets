@@ -1,0 +1,157 @@
+{
+  "$schema": "../schemas/questions.schema.json",
+  "category": "discord",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "discord-001",
+      "question": "Qual o limite de caracteres de uma mensagem comum?",
+      "respostas": ["2000", "2k"],
+      "dica": "É um número redondo de milhar."
+    },
+    {
+      "id": "discord-002",
+      "question": "Qual o limite de servidores que um usuário normal pode entrar?",
+      "respostas": ["100", "cem"],
+      "dica": "É um número redondo de centena."
+    },
+    {
+      "id": "discord-003",
+      "question": "Como se chama a assinatura paga do Discord?",
+      "respostas": ["nitro"],
+      "dica": "Nome de um gás usado para dar velocidade em carros."
+    },
+    {
+      "id": "discord-004",
+      "question": "Qual o nome das etiquetas que definem permissões e cores nos servidores?",
+      "respostas": ["cargos", "roles"],
+      "dica": "Sinônimo de funções ou postos de trabalho."
+    },
+    {
+      "id": "discord-005",
+      "question": "Qual o limite de amigos que um usuário pode ter?",
+      "respostas": ["1000", "mil"],
+      "dica": "Um número redondo de milhar."
+    },
+    {
+      "id": "discord-006",
+      "question": "Como se chama a mensagem privada enviada diretamente para uma pessoa?",
+      "respostas": ["dm", "pv", "direct message"],
+      "dica": "Sigla para Direct Message."
+    },
+    {
+      "id": "discord-007",
+      "question": "Qual o nome do robozinho mascote do Discord?",
+      "respostas": ["wumpus"],
+      "dica": "Começa com a letra W."
+    },
+    {
+      "id": "discord-008",
+      "question": "Qual o nome do recurso para transmitir tela ou jogos no Discord?",
+      "respostas": ["streaming", "stream", "go live"],
+      "dica": "Termo em inglês para transmissão ao vivo."
+    },
+    {
+      "id": "discord-009",
+      "question": "Qual o nome da função que expulsa permanentemente um usuário do servidor?",
+      "respostas": ["ban", "banir", "banimento"],
+      "dica": "Três letras, o terror dos infratores."
+    },
+    {
+      "id": "discord-010",
+      "question": "Qual o nome da função que expulsa um usuário do servidor temporariamente?",
+      "respostas": ["kick", "expulsar", "expulsão"],
+      "dica": "É o termo em inglês de 'chutar'."
+    },
+    {
+      "id": "discord-011",
+      "question": "Como se chama o atraso na voz ou na conexão?",
+      "respostas": ["lag", "ping"],
+      "dica": "Termo muito comum em jogos online."
+    },
+    {
+      "id": "discord-012",
+      "question": "Qual o nome da funcionalidade de agrupar servidores em conjuntos?",
+      "respostas": ["pastas", "pasta", "folders", "folder"],
+      "dica": "É o mesmo nome usado para organizar ficheiros no computador."
+    },
+    {
+      "id": "discord-013",
+      "question": "Qual o nome do estado que mostra que você não quer ser incomodado?",
+      "respostas": ["ocupado", "do not disturb", "dnd"],
+      "dica": "Representado por um círculo vermelho com um traço branco."
+    },
+    {
+      "id": "discord-014",
+      "question": "Como se chama a imagem de fundo decorativa do perfil, exclusiva do Nitro?",
+      "respostas": ["banner"],
+      "dica": "Termo em inglês para um painel ou faixa decorativa."
+    },
+    {
+      "id": "discord-015",
+      "question": "Qual o nome da ferramenta usada para criar sub-discussões dentro de canais?",
+      "respostas": ["threads", "thread", "fios", "fio"],
+      "dica": "Termo em inglês para 'fios' ou discussões encadeadas."
+    },
+    {
+      "id": "discord-016",
+      "question": "Qual o limite de membros num grupo de mensagens privadas?",
+      "respostas": ["10", "dez"],
+      "dica": "É a soma dos dedos das mãos."
+    },
+    {
+      "id": "discord-017",
+      "question": "Como se chama a pequena imagem que representa o servidor na lista lateral?",
+      "respostas": ["ícone", "icone", "icon", "foto", "avatar"],
+      "dica": "Sinônimo de símbolo ou representação gráfica."
+    },
+    {
+      "id": "discord-018",
+      "question": "Qual o nome do sistema que permite entrar em servidores via link?",
+      "respostas": ["convite", "invite", "link de convite"],
+      "dica": "O que você recebe quando é chamado para uma festa."
+    },
+    {
+      "id": "discord-019",
+      "question": "Qual o nome da versão do Discord para desenvolvedores testarem novidades?",
+      "respostas": ["canary"],
+      "dica": "Nome de um pássaro amarelo."
+    },
+    {
+      "id": "discord-020",
+      "question": "Qual o nome da insígnia dada a quem impulsiona um servidor com Nitro?",
+      "respostas": ["boost", "impulso"],
+      "dica": "Termo em inglês para dar um 'empurrão' ou melhoria."
+    },
+    {
+      "id": "discord-021",
+      "question": "Qual o nome do modo que silencia todas as notificações do Discord?",
+      "respostas": ["soneca", "snooze"],
+      "dica": "O mesmo botão que você aperta para dormir mais 5 minutinhos."
+    },
+    {
+      "id": "discord-022",
+      "question": "Como se chama a lista de usuários banidos de um servidor?",
+      "respostas": ["banimentos", "lista de banimentos", "bans"],
+      "dica": "Onde ficam os usuários que quebraram as regras permanentemente."
+    },
+    {
+      "id": "discord-023",
+      "question": "Qual o nome do canal especial que exibe as regras do servidor?",
+      "respostas": ["canal de regras", "regras", "rules"],
+      "dica": "O primeiro canal que você deve ler ao entrar num servidor."
+    },
+    {
+      "id": "discord-024",
+      "question": "Como se chama o recurso de reagir a uma mensagem com um emoji?",
+      "respostas": ["reação", "reações", "reaction", "reactions"],
+      "dica": "Uma forma rápida de responder sem digitar nada."
+    },
+    {
+      "id": "discord-025",
+      "question": "Qual o nome da funcionalidade que permite fixar mensagens importantes no canal?",
+      "respostas": ["mensagens fixadas", "fixar", "pins", "pin"],
+      "dica": "Usado para destacar mensagens importantes para todos verem."
+    }
+  ]
+}
